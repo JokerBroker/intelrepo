@@ -38,4 +38,4 @@ Now after training, validation and testing we are ready to detect for objects in
 We will get the result in :-<code>models\yolov5\runs\detect\exp</code> 
 
 Sample Input :- <code> models\yolov5\data\images\dashcam.mp4 </code>
-Sample Output :- <code>models\yolov5\runs\detect\exp2\dashcam.mp4</code>
+Sample Output :- <code>models\yolov5\runs\detect\exp2\dashcam.mp4</code>. Due to space constraints we have uploaded the video file into <a href="https://drive.google.com/file/d/17NHPCXf_N0WIt1VKMOvJmcXsCbltkrKF/view?usp=sharing">drive</a>.
