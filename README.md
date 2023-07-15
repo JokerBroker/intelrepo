@@ -1,11 +1,12 @@
+
 <center><h3><u>ROAD OBJECT DETECTION USING DEEP LEARNING</h3></center>
   
 <h3><u>Collaborators </h1>
+
 <a href="https://github.com/KrishnaPrasadSr2002">@Krishna Prasad S R</a>
 <a href="https://github.com/JokerBroker">@Karthik Nair</a>
 
-
-*Steps to install Road Objection Detection using deep learning*
+<u>*Steps to install Road Objection Detection using deep learning*</u>
 
 <ul>
 <li>Make sure Git is installed in your computer. You can get Git from this link <a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a>
