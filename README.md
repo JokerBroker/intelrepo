@@ -1,4 +1,7 @@
 <center><h3><u>ROAD OBJECT DETECTION USING DEEP LEARNING</h3></center>
+<h3><u>Collaborators </h1>
+<a href="https://github.com/KrishnaPrasadSr2002">@Krishna Prasad S R</a>
+<a href="https://github.com/JokerBroker">@Karthik Nair</a>
 
 *Steps to install Road Objection Detection using deep learning*
 
@@ -33,8 +36,3 @@ We will get the result in :-<code>models\yolov5\runs\detect\exp</code>
 
 Sample Input :- <code> models\yolov5\data\images\dashcam.mp4 </code>
 Sample Output :- <code>models\yolov5\runs\detect\exp2\dashcam.mp4</code>
-
-<h3><u>Collaborators </h1>
-
-<a href="https://github.com/KrishnaPrasadSr2002">@Krishna Prasad S R</a>
-<a href="https://github.com/JokerBroker">@Karthik Nair</a>
