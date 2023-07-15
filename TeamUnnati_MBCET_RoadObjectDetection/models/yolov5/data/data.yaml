@@ -1,0 +1,6 @@
+path: ../../data/dataset
+train: train/images
+val: valid/images
+
+nc: 15
+names: ['animal', 'autorickshaw', 'bicycle', 'bus', 'car', 'caravan', 'motorcycle', 'person', 'rider', 'traffic light', 'traffic sign', 'trailer', 'train', 'truck', 'vehicle fallback']
